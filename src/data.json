@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "productName": "Телефон",
+    "price": "50000",
+    "amount": "2",
+    "maxPerPerson": "2"
+  },
+  {
+    "id": "2",
+    "productName": "Телевизор",
+    "price": "60000",
+    "amount": "3",
+    "maxPerPerson": "1"
+  },
+  {
+    "id": "3",
+    "productName": "Компьютер",
+    "price": "40000",
+    "amount": "7",
+    "maxPerPerson": "5"
+  },
+  {
+    "id": "4",
+    "productName": "Стиральная машина",
+    "price": "50000",
+    "amount": "9",
+    "maxPerPerson": "3"
+  },
+  {
+    "id": "5",
+    "productName": "Кондиционер",
+    "price": "30000",
+    "amount": "3",
+    "maxPerPerson": "1"
+  },
+  {
+    "id": "6",
+    "productName": "Микроволновая печь",
+    "price": "10000",
+    "amount": "7",
+    "maxPerPerson": "5"
+  },
+  {
+    "id": "7",
+    "productName": "Аудиосистема",
+    "price": "50000",
+    "amount": "6",
+    "maxPerPerson": "2"
+  },
+  {
+    "id": "8",
+    "productName": "Мобильный телефон",
+    "price": "120000",
+    "amount": "3",
+    "maxPerPerson": "1"
+  },
+  {
+    "id": "9",
+    "productName": "Холодильник",
+    "price": "40000",
+    "amount": "7",
+    "maxPerPerson": "5"
+  }
+]
